@@ -10,4 +10,4 @@ A-Frame is used for rendering the 3D/VR scene.
 Interface controls (Change Color, Move Box) allow interaction within the VR environment via buttons.
 Scene includes a box, sphere, cylinder, plane (floor), and a skybox.
 Output:
-https://github.com/Saranya-M-IT/UI-UX-task4/issues/1#issue-3234756806
+(https://github.com/user-attachments/assets/e2a400a8-6d31-445b-ab63-6ca57a9a91e1)
